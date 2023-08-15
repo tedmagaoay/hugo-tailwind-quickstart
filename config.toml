@@ -1,3 +1,8 @@
+# Ref:
+# [Quickstart hugo and tailwind.css](https://bear.willmeyers.net/quickstart-hugo-and-tailwindcss/)
+# [How to add Tailwind CSS 3 to a Hugo website in 2022?](https://www.unsungnovelty.org/posts/03/2022/how-to-add-tailwind-css-3-to-a-hugo-website-in-2022/)
+
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+theme = 'my-theme'
